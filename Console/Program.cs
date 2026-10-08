@@ -15,12 +15,14 @@
         // 3. Ordenar la lista automáticamente gracias a CompareTo
         listaPersonas.Sort();
 
+        RegistrarActividad("Listar ordenado");
         Console.WriteLine("\n--- Lista Ordenada Alfabéticamente (.Sort) ---");
         MostrarLista(listaPersonas);
 
         // 4. Invertir el orden (Z a la A)
         listaPersonas.Reverse();
 
+        RegistrarActividad("Listar invertida");
         Console.WriteLine("\n--- Lista Invertida (.Reverse) ---");
         MostrarLista(listaPersonas);
     }
@@ -43,6 +45,13 @@
         {
             Console.WriteLine($"[Error] Registro rechazado: Nombre='{nombre}', Teléfono='{telefono}'");
         }
+    }
+
+    static void RegistrarActividad(string actividad)
+    {
+        const string usuario = "usuario_demo";
+        string entrada = $"{DateTime.Now:yyyy-MM-dd HH:mm:ss} | Usuario: {usuario} | Actividad: {actividad}{Environment.NewLine}";
+        File.AppendAllText("actividad.txt", entrada);
     }
 
 }
