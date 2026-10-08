@@ -1,0 +1,22 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Aa]rtifacts/
+publish/
+TestResults/
+
+# IDE-local files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
