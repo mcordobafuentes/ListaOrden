@@ -1,0 +1,14 @@
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/bin/Debug/net10.0/Console
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/bin/Debug/net10.0/Console.deps.json
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/bin/Debug/net10.0/Console.runtimeconfig.json
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/bin/Debug/net10.0/Console.dll
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/bin/Debug/net10.0/Console.pdb
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.AssemblyInfoInputs.cache
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.AssemblyInfo.cs
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.csproj.CoreCompileInputs.cache
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.dll
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/refint/Console.dll
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.pdb
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/Console.genruntimeconfig.cache
+/Users/marcelocordoba/Documents/app/csharp/ListOrden/Console/obj/Debug/net10.0/ref/Console.dll
