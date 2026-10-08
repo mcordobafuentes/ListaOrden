@@ -1,2 +1,4 @@
 2026-10-08 16:11:13 | Usuario: usuario_demo | Actividad: Listar ordenado
 2026-10-08 16:11:13 | Usuario: usuario_demo | Actividad: Listar invertida
+2026-10-08 16:22:55 | Usuario: usuario_demo | Actividad: Listar ordenado
+2026-10-08 16:22:55 | Usuario: usuario_demo | Actividad: Listar invertida

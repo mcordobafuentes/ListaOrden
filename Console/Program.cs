@@ -8,7 +8,7 @@
             new Persona("Carlos", "23456789"),
             new Persona("Beatriz", "34567890")
         };
-        
+
         AgregarPersonaSegura(listaPersonas, new ValidadorPersona(), "Diana", "45678901");
 
 
@@ -25,6 +25,16 @@
         RegistrarActividad("Listar invertida");
         Console.WriteLine("\n--- Lista Invertida (.Reverse) ---");
         MostrarLista(listaPersonas);
+
+        // Formato: Nombre,Edad,Calificación
+        string[] alumnos = {
+            "Nombre,Edad,Nota",
+            "Ana López,20,9.5",
+            "Luis Pérez,22,8.0",
+            "María Gómez,19,10.0"
+        };
+
+        File.WriteAllLines("alumnos.csv", alumnos);
     }
 
     // Método auxiliar para simular la inserción segura
